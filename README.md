@@ -1,29 +1,35 @@
-# projetovue
+# CRUDlist
 
-## Project setup
-```
-npm install
-```
+> Projeto simples de uma lista CRUD (Create, Read, Update, Delete) feito com [tecnologias que você usou — Vue, etc].
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+---
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 📋 Sobre
 
-### Run your unit tests
-```
-npm run test:unit
-```
+CRUDlist é uma aplicação para gerenciar listas com as operações básicas de CRUD, criada para aprender/praticar [Vue.js / JavaScript / outras tecnologias].
 
-### Lints and fixes files
-```
-npm run lint
-```
+---
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 🚀 Funcionalidades
+
+- Criar novos itens na lista
+- Visualizar itens existentes
+- Editar itens
+- Deletar itens
+
+---
+
+## 🛠 Tecnologias usadas
+
+- Vue.js
+- JavaScript
+- [Outras que usou, ex: Axios, Vue Router, etc]
+
+---
+
+## ⚙️ Como rodar o projeto localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/codecomnick/CRUDlist.git
