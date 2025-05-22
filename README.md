@@ -10,6 +10,12 @@ CRUDlist é uma aplicação para gerenciar listas com as operações básicas de
 
 ---
 
+## 💻 Acesse o Projeto
+
+[👉 Clique aqui para abrir o projeto no seu navegador](https://cool-kangaroo-493f19.netlify.app/#/)
+
+---
+
 ## 🚀 Funcionalidades
 
 - Criar novos itens na lista
@@ -23,7 +29,7 @@ CRUDlist é uma aplicação para gerenciar listas com as operações básicas de
 
 - Vue.js
 - JavaScript
-- [Outras que usou, ex: Axios, Vue Router, etc]
+- HTML, CSS
 
 ---
 
